@@ -1,0 +1,8 @@
+kivy
+kivymd
+psycopg2
+bcrypt
+python-dotenv
+requests
+Pillow
+spotipy

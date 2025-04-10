@@ -1,0 +1,6 @@
+.cache
+.env
+venv
+brouillon
+.pytest_cache
+__pycache__
